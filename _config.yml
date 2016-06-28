@@ -1,4 +1,3 @@
-layout_spectrum: 0.24382807523943484
 typography_spectrum: 0.29995536897331476
 color:
   brandStrength: 0.021643415791913867
@@ -6,9 +5,15 @@ color:
   saturation: 0.20286196912638843
   rhythmicContrast: 0.4458469939418137
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+layout_spectrum: 0.24382807523943484
+author:
+  name: Paul
+  email: paulstekelenburg@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9a049e4d-ef82-4d5b-ad19-4d424056dcbc.png
 name: Hier
